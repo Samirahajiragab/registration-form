@@ -10,7 +10,8 @@ h1 {
   border-bottom: 1px solid #000;
 }
 
-section {
-  padding: 5rem;
+.container{
+  max-width: 300px;
+  padding: 1rem;
   background-color: #fff;
 }
