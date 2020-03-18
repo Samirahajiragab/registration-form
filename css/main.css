@@ -1,5 +1,5 @@
 html {
-  font-family: "Open Sans", sans-serif
+  font-family: Open Sans, sans-serif
 }
 
 body {
@@ -10,7 +10,7 @@ h1 {
   border-bottom: 1px solid #000;
 }
 
-.container{
+.container {
   max-width: 300px;
   padding: 2.6rem 1rem;
   background-color: #fff;
@@ -19,6 +19,7 @@ h1 {
 .btn {
   padding: .15rem .5rem;
 }
+
 @media only screen and (min-width: 60em) {
 
 
